@@ -6,7 +6,6 @@
       jobs:
         - testjob
 - project:
-    name: seconds
     periodic-second:
       jobs:
         - testjob
